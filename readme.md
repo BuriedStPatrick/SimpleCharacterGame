@@ -20,11 +20,13 @@ Assuming you've installed IntelliJ and pulled/downloaded the project:
 
 6. Put com.patrickchristensen.simplecharacter.desktop.DesktopLauncher in "Main class"
 
-7. Select the desktop module in the "Use classpath of module" setting
+7. Set working directory to the core-module "assets" folder (C:\path\to\project\simplecharacter\core\assets)
 
-8. Apply and you should be good to go
+8. Select the desktop-module in the "Use classpath of module" setting
 
-9. Any questions, you can contact me on [Twitter](https://www.twitter.com/buriedstpatrick)
+9. Apply and you should be good to go
+
+10. Any questions, you can contact me on [Twitter](https://www.twitter.com/buriedstpatrick)
 
 ### Making maps
 Maps are made with [Tiled](http://www.mapeditor.org/) - pretty comprehensive multipurpose 2D mapping software.
